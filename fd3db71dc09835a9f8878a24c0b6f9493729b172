@@ -1,0 +1,1 @@
+{"jobID":"4b199ff6-cd14-c8e8-7208-c29d9a5a8311","spec":{"type":"policy","cause":{"Message":"","User":"billy.shambrook@gmail.com \u003cbilly.shambrook@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
